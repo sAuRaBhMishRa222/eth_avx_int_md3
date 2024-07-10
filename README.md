@@ -1,4 +1,4 @@
-# Error Handling in solidity
+# Creating Custom tokens using ERC20
 
 This Solidity contract implements a simple ERC20 token creation system, enabling the owner to mint and manage tokens that comply with the ERC20 standard. The contract features a mint function that allows the owner to create new tokens and assign them to a specified address, ensuring that only the owner can perform this action. The contract also includes a burn function that enables the sender to remove tokens from their balance, and a transfer function that allows users to move tokens between accounts, adhering to the ERC20 protocol. Furthermore, the contract provides a mechanism for the owner to maintain control over token creation and management, ensuring that tokens are distributed securely and transparently, while also conforming to the widely-adopted ERC20 standard for token implementation.
 
